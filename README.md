@@ -68,6 +68,6 @@ The code includes three variations of the temperature measurement:
 
 You can find the complete code and materials for this project on GitHub. Feel free to reuse, modify, or expand upon this project for your own educational or practical purposes.
 
-[GitHub Repository](https://github.com/yourrepositorylink)
+[GitHub Repository](https://github.com/Thomas-J-Kidd/Hackathon)
 
 Enjoy exploring temperature measurement with a thermistor using Arduino! 🚀
