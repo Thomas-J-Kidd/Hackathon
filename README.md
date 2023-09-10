@@ -1,3 +1,19 @@
+# Table of Contents
+
+1. [1 year K12 student success plan in sustainability development](#1-year-k12-student-success-plan-in-sustainability-development)
+   - [Description](#description)
+   - [Why](#why)
+   - [Timeline](#timeline)
+   - [Collaboration](#collaboration)
+
+2. [Temperature Readings with Thermistor](#temperature-readings-with-thermistor)
+   - [Description](#description-1)
+   - [Setup](#setup)
+     - [Components Needed](#components-needed)
+     - [Circuit Connection](#circuit-connection)
+   - [Usage](#usage)
+   - [GitHub Repository](#github-repository)
+
 # 1 year K12 student success plan in sustainability development. 
 
 ## Description
