@@ -1,3 +1,20 @@
+# 1 year K12 student success plan in sustainability development. 
+
+## Description
+The "EMPower 1 year plan for student activities.docx" file presents an innovative lesson plan idea for the entire school year, offering a captivating and educational project for each of the eight months. These projects are carefully designed to engage students and provide hands-on learning experiences that encompass a wide range of subjects, from science and technology to art and sustainability. The goal of this lesson plan is to foster creativity, critical thinking, and collaboration among students. 
+
+  
+## Why
+What makes this lesson plan truly unique is its openness and accessibility. We believe in the power of sharing knowledge and resources. Therefore, all project details, including code and materials, are made available on GitHub for anyone to access, use, and expand upon. This not only encourages educators to adopt and adapt these projects but also enables students, parents, and enthusiasts to explore, learn, and contribute to the projects. 
+
+  
+## Timeline
+Throughout the school year, students will embark on a journey of discovery and exploration, tackling projects that are not only exciting but also align with important educational objectives. By combining the joy of learning with the freedom to innovate, we hope to inspire a new generation of thinkers, problem-solvers, and creators. 
+
+  
+## Collaboration
+Join us in this educational adventure, and let's explore the endless possibilities of learning, making, and sharing. Together, we can empower students and educators to embrace the wonders of knowledge and creativity throughout the school year and beyond.
+
 # Temperature Readings with Thermistor
 
 This Arduino code provides a basic temperature measurement setup using a thermistor. The code reads the analog output from the thermistor and calculates the temperature in both Celsius and Fahrenheit.
